@@ -1,0 +1,2 @@
+C2 - commit. Updating line to check with previous commit
+Update after c2 stage
