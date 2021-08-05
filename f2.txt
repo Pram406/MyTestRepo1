@@ -1,2 +1,3 @@
 New file f2 created in sub1 branch
 f2 - L2 line from local master branch
+f2 - L1 line from local sub1 branch
